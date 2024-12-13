@@ -1,0 +1,9 @@
+com/msrapunzel/JsonConverter.class
+com/msrapunzel/EntityRepository.class
+com/msrapunzel/MessageWebSocket.class
+com/msrapunzel/resources/JakartaEE10Resource.class
+com/msrapunzel/EntitiesServlet.class
+com/msrapunzel/Users.class
+com/msrapunzel/DerbyConnectionTest.class
+com/msrapunzel/JakartaRestConfiguration.class
+com/msrapunzel/User.class
